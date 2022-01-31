@@ -41,6 +41,4 @@ public class EmployeesController {
                                 @RequestParam("position") Position position) {
         return new Employee(4, name, position);
     }
-
-
 }

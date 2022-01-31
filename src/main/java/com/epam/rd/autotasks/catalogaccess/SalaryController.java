@@ -25,5 +25,4 @@ public class SalaryController {
     public BigDecimal mySalary() {
         return BigDecimal.ZERO;
     }
-
 }
